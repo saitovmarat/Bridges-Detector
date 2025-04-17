@@ -1,1 +1,0 @@
-С сайта https://images.cv/dataset/bridge-image-classification-dataset скачиваем .zip файл и извлекаем в эту папку

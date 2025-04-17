@@ -1,4 +1,7 @@
-dataset/*
-!dataset/README.md
+dataset
+data
+runs
+data_preprocessing.ipynb
+yolov8n.pt
 
 *venv

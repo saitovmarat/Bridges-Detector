@@ -1,5 +1,8 @@
 dataset
 data
+roadPaths*
+output
+
 runs
 data_preprocessing.ipynb
 yolov8n.pt
